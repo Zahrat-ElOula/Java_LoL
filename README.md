@@ -1,2 +1,2 @@
 # Java_LoL
-Créer un simulateur de championnat LoL en modélisant les champions, les rôles, et les matchs.
+Un simulateur de championnat LoL  modélisant les champions, les rôles, et les matchs.
